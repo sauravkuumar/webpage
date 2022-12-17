@@ -1,0 +1,298 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div class="page">
+            <div class="headerpart">
+                <img src="https://serving.photos.photobox.com/506536703f4f7b24720aabc2767c4cb3239d530a3aca24eff41f56b7c4bd04868dbe9271.jpg" width="100%" height="150px">
+            </div>
+
+            <div class="linkpart">
+                <center>
+                <a href="#">Home</a> &nbsp;
+                <a href="#">Social Media</a> &nbsp;
+                <a href="#">Projects</a> &nbsp;
+                <a href="#">About</a> &nbsp;
+            </center>
+            </div><div class="bodypart">
+                <div class="imagepart"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTLdN_PyuozyrEt4tFLCfvvNdGfcgtEx_B_pOGImrWWKcHs6tsN7FSxFESHu10m92pcI&usqp=CAU" width="260px" height="170px"></div>
+                <div class="newspart">
+                    <h2>PROJECTS</h2>
+                    <div class="news">
+                    <marquee direction="up" height="100%">
+                        <h4><br>Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites.</h4>
+                            <br>
+                            PROJECT MADE BY SAURAV<br>
+                            *Live chat app<br>
+                            *Portfolio<br>
+                            *Website <br>
+                            *Video calling website<br>
+                            *Ecommerce website<br>
+                            *Form Registration with database<br><br>
+                            <br>
+                            <br>
+                            <b>Skills</b><br>
+                            *HTML<br>
+                            *PHP<br>
+                            *MYSQL<br>
+                            *CSS<br>
+                            *MS-WORD<br>
+                            *MS-POWERPOINT<br>
+                            *MS-EXCEL<br>
+                            *LINUX<br>
+                            *PHOTOSHOP<br>
+                            *JAVASCRIPT<br>
+                            *C LANGUSAGE<br>
+
+                            <p> I will provide you source code of all project</p>
+                            <br>GITHUB , FREELANCE , WHATSAPP , FACEBOOK , INSTAGRAM and many more website which make our daily life more easy .
+                            </marquee>
+                    </div>
+                </div>
+                <div class="imagepart"><img src="https://webdevtrick.com/wp-content/uploads/responsive-resume-template.jpg" width="260px" height="170px"></div>
+                <div class="bio">
+                <h2>1. Live chatting website/App.<br>
+                2. Resume maker website/App.<br>
+            3. Video calling website/app.<br>
+        4. Webdesining.<br>
+    5. Ecommerce wesite (flipkart, amazon etc).<br>
+6. Login/Registration from with database.</h2><h1><ul><u><b>SAURAV KUMAR<b><ul></u></h1><p>Hey! This website is made for webdesining in which i will be bringing 
+    different type of courses and projects with <u>Source code </u>. Which will free for every one and help full. HERE, comes the most important points which our website always keep in focus. 
+    Which is very important to everyone and make your skills more upgraded . Here are some important toopics which will be useful to all.<br>
+    <h3><i><br>*<U>IMPORTANT</U> :<br>
+    1. How to make github page for yourself.<br>
+    2. How to make freelance page<br>
+    2. How to take test and get prepared for Relevel <br>
+    3. How to apply for jobs <br>
+    4. How to make money at home<br>
+</p></i></h3><div class="imagepart"><a href="https://www.php.net/"><img src="https://reliqus.com/wp-content/uploads/2021/09/PHP-Development-Company.jpg" width="260px" height="170px"></a></div>
+<div class="imagepart"><a href="https://intagram.com/_kumar_saurav_"><img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/09/WHAT-IS-WEB-DESIGN.jpg?auto=format&q=60&w=1860&h=1090&fit=crop&crop=faces " width="260px" height="170px"></a></div>
+<div class="imagepart"><a href="CjwKCAiAy_CcBhBeEiwAcoMRHIpPJWTFemXOBjjITQ9qbIUcTR8DosXtzoeQXbJKTXycsMkLffAZzhoCylEQAvD_BwE"><img src="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg" width="260px" height="170px"></a></div>
+<div class="imagepart"><a href="CjwKCAiAy_CcBhBeEiwAcoMRHIpPJWTFemXOBjjITQ9qbIUcTR8DosXtzoeQXbJKTXycsMkLffAZzhoCylEQAvD_BwE"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1" width="260px" height="170px"></a></div>
+
+<div class="imagepart"><a href="https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg"></a><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/difference_between_sql_and_mysql.jpg" width="260px" height="170px"></a></div>
+<div class="imagepart"><a href="https://github.com/"><img src="data:image/png;base64,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" width="260px" height="170px"></a></div>
+                
+            </div>
+            <div class="left">
+                <div class="news">
+                <marquee direction="left" height="100%">
+                    <h1>DEVELOPER : -- 1. How to make github page for yourself.   
+                        2. How to make freelance page.    
+                        3. How to take test and get prepared for Relevel.   
+                        4. How to apply for jobs.    
+                        5. How to make money at home.</h1>
+                    </marquee>
+                </div>
+            </div>
+            <div class="foter">
+                <h2><a href="#about">ABOUT</a><br>
+                 CONTACT NUMBER : +91 7781054676<br>
+                  GITHUB LINK : <a href="https://github.com/Saurav676sau/codewithsaurav.github.io">SAURAV KUMAR</a><br></h2><p>Hey! This website is made for webdesining in which i will be bringing 
+    different type of courses and projects with <u>Source code </u>. Which will free for every one and help full. HERE, comes the most important points which our website always keep in focus. 
+    Which is very important to everyone and make your skills more upgraded . Here are some important toopics which will be useful to all.<br>
+    <h3><i><br>*<U>IMPORTANT</U> :<br>
+     INSTAGRAM LINK : <a href="https://www.instagram.com/_kumar_saurav_/">@_kumar_saurav_</a><br> 
+      
+                  GITHUB LINK : <a href="https://github.com/Saurav676sau/codewithsaurav.github.io">SAURAV KUMAR</a><br>
+      CALL ME :--<a href="tel:+917781054676">+91 7781054676</a>
+        </div>
+            </div> 
+    </body>
+          <style>
+            .page{
+	margin:0;
+              padding:0;
+    height: 1850px;
+    width: auto;
+
+}
+.headerpart
+{
+    width: 100%;
+    height: 150px;
+    border-style: groove;;
+}
+.headerpart .logo{
+    width: 100px;
+}
+.headerpart h1{
+    color: rgb(232, 232, 232);
+    margin-top: 25px;
+    font-size: 50px;
+}
+
+.linkpart{
+    width: 100%;
+    height: 30px;
+    margin-top: 15px;
+    border-style: groove;
+    background-color:  rgb(0, 0, 0);
+}
+
+.linkpart a{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+    color: rgb(245,246,241);
+    text-decoration: none;
+}
+.linkpart a:hover{
+    background-color:  rgb(10, 10, 10);
+    color: rgb(245,246,241);
+}
+.bodypart{
+    margin: 5px;
+    padding:5px;
+    width: 100%;
+    height: 100%;
+    border-style: groove;
+    margin-top: 5px; 
+    background-color: black;
+    color: rgb(127, 127, 209)
+}
+.bodypart .imagepart{
+    margin: 5px;
+    width: 260px;
+    height: 170px;
+    border-style: groove;
+    background-repeat: no-repeat;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: rgb(182, 182, 182);
+    text-decoration: none;
+    
+}
+.bodypart .imagepart:hover{
+    image-resolution: red;
+    cursor: pointer;
+}
+
+.bodypart .newspart{
+    width: 400px;
+    height: 500px;
+    border-style: groove;
+    float: right;
+    font-display: repeat;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(162, 186, 229);
+}
+.bodypart .newspart h2{
+    margin: 2px;
+    margin-left: 150px;
+    color: rgb(128, 0, 0);
+}
+.bodypart .newspart .news{
+    width: 395px;
+    height: 85%;
+    color: white;
+    font-size: 25px;
+}
+.bodypart .newspart .news h4{
+    color: rgb(168, 168, 238);
+    font-size: 28px;
+}
+.bodypart .newspart .data{
+    width: 200px;
+    height: 50%;
+    background-image: linear-gradient(rgb(90, 90, 237), skyblue);
+
+}
+.footer{
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+}
+.newsscroll{
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+    border-style: groove;
+    background-color:  skyblue;
+}
+.newsscroll h4{
+    
+}
+.bodypart .bio{
+    font-style: italic;
+    font-size: 15px;
+}
+.bodypart .bio h1{
+    color: rgb(168, 168, 238)
+    font-size: 40px;
+    padding: 0;
+    margin: 1px;
+}
+.bodypart .bio h3{
+    font-size: 25px;
+    padding: 0;
+    margin: 1px;
+    color: aliceblue;
+}
+.bodypart .bio p{
+    font-size: 20px;
+}
+.bodypart .imagepart h2{
+    color:  rgb(168, 168, 238);
+}
+.bodypart .news{
+    margin-top: 15px;
+    width: 15px;
+    height: 15px;
+    border-style: groove;
+    float: right;
+    font-display: repeat;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(204, 204, 204);
+}
+.bodypart .left .news{
+    padding: 10px;
+    width: 98%;
+    height: 35px;
+    color: rgb(51, 216, 90);
+    font-size: 25px;
+}
+
+.bodypart .left .news h1{
+    margin: auto;
+    color: rgb(168, 168, 238);
+    font-size: 28px;
+}
+.bodypart .left .news h2{
+    color: rgb(192, 87, 7);
+    font-size: 28px;
+}
+.bodypart .left .data{
+    width: 200px;
+    height: 50%;
+    background-image: linear-gradient(rgb(90, 90, 237), skyblue);
+
+}
+.bodypart .foter{
+    font-style: italic;
+    font-size: 15px;
+}
+.bodypart .foter h1{
+    color: rgb(215, 215, 223);
+    font-size: 40px;
+    padding: 1px;
+    margin: 1px;
+}
+.bodypart .foter h2{
+    padding: 10px;
+    margin-top: 10px;
+}
+.bodypart .foter h3{
+    font-size: 25px;
+    padding: 0;
+    margin: 1px;
+    color: rgb(232, 21, 6);
+}
+.bodypart .foter p{
+    font-size: 20px;
+}
+          </style>
+</html>
